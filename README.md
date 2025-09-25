@@ -4,7 +4,10 @@ Aplicação didática que mostra como usar persistência poliglota: dados tabula
 
 Aplicação desenvolvida por Arthur Henrique Lima e João Victor Abrantes, para a cadeira de tendências em ciência da computação, ministrada pelo professor Ricardo Roberto.
 
+## Arquitetura
+Monólito modular que integra os dois banco de dados em uma única aplicação. Separado queries e bancos por módulos e utilizado em conjunto nas telas
 
+## Instalando dependencias
 ```bash
 python -m venv .venv
 source .venv/bin/activate
