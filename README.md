@@ -2,6 +2,8 @@
 
 Aplicação didática que mostra como usar persistência poliglota: dados tabulares (SQLite) e documentos JSON com coordenadas (MongoDB).
 
+Aplicação desenvolvida por Arthur Henrique Lima e João Victor Abrantes, para a cadeira de tendências em ciência da computação, ministrada pelo professor Ricardo Roberto.
+
 
 ```bash
 python -m venv .venv
